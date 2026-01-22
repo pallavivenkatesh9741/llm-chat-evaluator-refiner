@@ -34,6 +34,18 @@ Frontend: HTML (Jinja2 Templates)
 
 Data Format: JSON
 ___
+### ⚙️ Features
+
+Queries three different LLaMA models concurrently
+
+Uses an aggregator model to combine answers into a single, high-quality response
+
+Logs all prompts, initial replies, evaluator feedback, and final aggregated answers
+
+Provides JSON API endpoint (/chat) for programmatic access
+
+Simple web interface to interact with the chat system
+___
 
 ### 🏗️ Project Structure
 project/
