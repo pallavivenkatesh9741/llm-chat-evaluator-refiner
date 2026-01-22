@@ -50,8 +50,8 @@ ___
 ### 🏗️ Project Structure
 project/
 - │
-- ├── app.py                  # Flask application with LLaMA chat endpoints
+- ├── app.py                  
 - ├── README.md               # Project documentation
 - ├── templates/
 - │   └── index.html          # Frontend page for user input
-- └── llama_chat1.log         # Logged interactions (auto-generated)
+- └── llama_chat1.log         # Logged interactions 
